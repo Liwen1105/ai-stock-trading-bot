@@ -173,7 +173,7 @@ Open the notebooks in numerical order to follow the project from data collection
 ## Author
 
 **Liwen (Lydia) Chen**  
-Joseph L. Rotman School of Management, University of Toronto
+University of Toronto
 
 ## Disclaimer
 
